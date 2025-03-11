@@ -33,10 +33,6 @@ Follow these steps to set up and run the project:
    ```bash
    pip install -r requirements.txt
    ```
-   If `requirements.txt` is not available, manually install the dependencies:
-   ```bash
-   pip install llama-index gradio
-   ```
 
 4. **Run the Application**  
    Start the Gradio interface by running:
